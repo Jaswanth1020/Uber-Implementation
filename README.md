@@ -1,0 +1,2 @@
+# Uber-Implementation
+Wrote two functions, a relocation function and a ride decision function. The relocation function chooses the best place to relocate to and the ride decision function is whether a ride should be accepted or not. Random instances were generated with data of rides, a graph G was created with 100 nodes, which acted like 100 locations a driver could go to. Results were top of the class, with $275 as average revenue for a driver driving 8 hours a day (result was ~45% increase in revenue per shift).
